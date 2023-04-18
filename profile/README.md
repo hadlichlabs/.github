@@ -24,7 +24,8 @@ Are you interested in leveraging the power of LLMs for your business or project?
 ## 🤝 Connect With Us
 Stay up-to-date with our latest projects, news, and events by following us on social media:
 
-[Twitter](https://www.twitter.com/hadlichlabs)
-[LinkedIn](https://www.linkedin.com/company/hadlich-labs)
+[![Twitter](https://img.shields.io/twitter/follow/hadlichlabs?style=social)](https://www.twitter.com/hadlichlabs)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Hadlich Labs](https://www.linkedin.com/company/hadlich-labs)
 
 We look forward to collaborating with you and helping you succeed in the world of LLMs!
